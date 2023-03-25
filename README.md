@@ -1,4 +1,5 @@
-# Reconocimiento automático de hablantes, empleando técnicas de Deep Learning, en peritajes informáticos.
+# Reconocimiento automático de hablantes, 
+# empleando técnicas de Deep Learning, en peritajes informáticos.
 
 En el año 1996, investigadores de los laboratorios AT&T Bell (Chin-Hui Lee, Frank K. Soong, Kuldip K. Paliwal, 1996), definieron “Reconocimiento Automático de Hablantes” -ASR por sus siglas en inglés- como “La ciencia y tecnología orientadas a implementar algoritmos para clasificar e identificar hablantes a través de sus registros de voz”.
 
@@ -11,42 +12,29 @@ Esta prueba forense le otorga al perito informático, la facultad de emitir un d
 Luego, el juez o el jurado podrán usar ese dictamen como evidencia para elaborar la sentencia final.
 
 
-## Propuesta
+## [Propuesta de TESIS](https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/01_PropuestaTesisJuanManuelMiguez.pdf)
 
-https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/01_PropuestaTesisJuanManuelMiguez.pdf
 
-# Informe de TESIS: *"Reconocimiento automático de hablantes, empleando técnicas de Deep Learning, en peritajes informáticos.*"
+# [Informe de TESIS: *"Reconocimiento automático de hablantes, empleando técnicas de Deep Learning, en peritajes informáticos.*"](https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/02_TesisJuanManuelMiguez.pdf)
 
-https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/02_TesisJuanManuelMiguez.pdf
+## [Presentación](https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/03_Presentaci%C3%B3nTesisJuanManuelMiguez.pptx)
 
-## Presentación:
+## [Demo Preprocesamiento](https://youtu.be/FfGpkqEQbQY)
 
-https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/03_Presentaci%C3%B3nTesisJuanManuelMiguez.pptx
+## [Notebook Preprocesamiento](https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/preprocesamientoV0080101.ipynb)
 
-## Demo Preprocesamiento:
+## [Demo Procesamiento](https://youtu.be/oizdJ4Sof1w)
 
-https://youtu.be/FfGpkqEQbQY
+## [Notebook Procesamiento](https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/procesamiento_V0080101.ipynb)
 
-## Notebook Preprocesamiento:
-
-https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/preprocesamientoV0080101.ipynb
-
-## Demo Procesamiento:
-
-https://youtu.be/oizdJ4Sof1w
-
-## Notebook Procesamiento:
-
-https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/procesamiento_V0080101.ipynb
-
-## Proyecto completo:
-
-https://github.com/jmiguez/reconocimiento_de_hablantes.git
+## [Proyecto completo](https://github.com/jmiguez/reconocimiento_de_hablantes.git)
 
 
 # Sobre el autor: 
+
 ## Juan Manuel Miguez
-https://www.linkedin.com/in/juan-manuel-miguez-970094a6
+[Linkedin](https://www.linkedin.com/in/juan-manuel-miguez-970094a6)
+
 Nº de Registro Profesional 4470.
 Inscripto en el Libro de Registro de Asociados, del Consejo Profesional de Ciencias informáticas - CABA - Argentina.
 Tomo II - Folio 99
