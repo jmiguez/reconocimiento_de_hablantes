@@ -32,7 +32,7 @@ Luego, el juez o el jurado podrán usar ese dictamen como evidencia para elabora
 
 # Sobre el autor: 
 
-## Juan Manuel Miguez
+## Mg. Ing. Juan Manuel Miguez
 [Linkedin](https://www.linkedin.com/in/juan-manuel-miguez-970094a6)
 
 Nº de Registro Profesional 4470.
