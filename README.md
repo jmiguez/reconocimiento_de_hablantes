@@ -10,7 +10,7 @@ Luego, el juez o el jurado podrán usar ese dictamen como evidencia para elabora
 Propuesta
 https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/01_PropuestaTesisJuanManuelMiguez.pdf
 
-Reconocimiento automático de hablantes, empleando técnicas de Deep Learning, en peritajes informáticos.
+## Informe de TESIS: *"Reconocimiento automático de hablantes, empleando técnicas de Deep Learning, en peritajes informáticos.*"
 https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/02_TesisJuanManuelMiguez.pdf
 
 Presentación
