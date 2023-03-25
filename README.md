@@ -1,5 +1,4 @@
-# reconocimiento_de_hablantes
-PERITAJE INFORMÁTICO SOBRE IDENTIFICACIÓN DE HABLANTES
+# Reconocimiento automático de hablantes, empleando técnicas de Deep Learning, en peritajes informáticos.
 
 En el año 1996, investigadores de los laboratorios AT&T Bell (Chin-Hui Lee, Frank K. Soong, Kuldip K. Paliwal, 1996), definieron “Reconocimiento Automático de Hablantes” ASR por sus siglas en inglés como “La ciencia y tecnología orientadas a implementar algoritmos para clasificar e identificar hablantes a través de sus registros de voz”.
 En la actualidad, dicha actividad se encuentra dentro de las incumbencias del perito informático forense. 
@@ -7,29 +6,38 @@ Conforme evolucionaron el poder de procesamiento computacional y las técnicas d
 Esta prueba forense le otorga al perito informático, la facultad de emitir un dictamen, aceptando o rechazando la hipótesis: "La muestra dubitada de voz del hablante X " es compatible con una exactitud del **,*** %" con la muestra indubitada de voz del hablante Y". 
 Luego, el juez o el jurado podrán usar ese dictamen como evidencia para elaborar la sentencia final.
 
-Propuesta
+## Propuesta
+
 https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/01_PropuestaTesisJuanManuelMiguez.pdf
 
-## Informe de TESIS: *"Reconocimiento automático de hablantes, empleando técnicas de Deep Learning, en peritajes informáticos.*"
+# Informe de TESIS: *"Reconocimiento automático de hablantes, empleando técnicas de Deep Learning, en peritajes informáticos.*"
+
 https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/02_TesisJuanManuelMiguez.pdf
 
-Presentación
+## Presentación:
+
 https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/03_Presentaci%C3%B3nTesisJuanManuelMiguez.pptx
 
-Demo Preprocesamiento
+## Demo Preprocesamiento:
+
 https://youtu.be/FfGpkqEQbQY
 
-Notebook Preprocesamiento
+## Notebook Preprocesamiento:
+
 https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/preprocesamientoV0080101.ipynb
 
-Demo Procesamiento
+## Demo Procesamiento:
+
 https://youtu.be/oizdJ4Sof1w
 
-Notebook Procesamiento
+## Notebook Procesamiento:
+
 https://github.com/jmiguez/reconocimiento_de_hablantes/blob/34c9392236313a2b6be10a579a24e921eb62425b/procesamiento_V0080101.ipynb
 
-Proyecto completo
+## Proyecto completo:
+
 https://github.com/jmiguez/reconocimiento_de_hablantes.git
+
 
 # Sobre el autor: 
 ## Juan Manuel Miguez
