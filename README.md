@@ -29,6 +29,8 @@ Luego, el juez o el jurado podrán usar ese dictamen como evidencia para elabora
 
 ## [Proyecto completo](https://github.com/jmiguez/reconocimiento_de_hablantes.git)
 
+## [Publicación ResearchGate](https://www.researchgate.net/publication/369529198_02_TesisJuanManuelMiguez)
+
 
 # Sobre el autor: 
 
